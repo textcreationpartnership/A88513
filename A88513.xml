@@ -1,0 +1,504 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A long-vvinded lay lecture. Wherein the licentiousnesse of this lewd and lying age, in perverting the sacred texts of Scripture, and the divine dictates of the Fathers, to the scandall of the church, and ruine of our nation, is poetically presented, to the view of all such as feare God and the King, and meddle not with those that are given to change. / By a lover of (and sufferer for) the truth.</title>
+            <author>Lover of (and Sufferer for) the Truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88513</idno>
+            <idno type="STC">Wing L2993</idno>
+            <idno type="STC">Thomason E388_14</idno>
+            <idno type="STC">ESTC R201509</idno>
+            <idno type="EEBO-CITATION">99862010</idno>
+            <idno type="PROQUEST">99862010</idno>
+            <idno type="VID">114157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114157)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E388[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A long-vvinded lay lecture. Wherein the licentiousnesse of this lewd and lying age, in perverting the sacred texts of Scripture, and the divine dictates of the Fathers, to the scandall of the church, and ruine of our nation, is poetically presented, to the view of all such as feare God and the King, and meddle not with those that are given to change. / By a lover of (and sufferer for) the truth.</title>
+                  <author>Lover of (and Sufferer for) the Truth.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "May 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lay preaching --  England --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114157:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <p>A LONG-VVINDED LAY-LECTURE.</p>
+            <p>Wherein the Licentiouſneſſe of this Lewd and Lying Age, in perverting the Sacred Tents of Scripture, and the Divine Dictates of the Fathers, to the ſcandall of the Church, and Ruine of our Nation, is Poetically preſented,</p>
+            <p>To the view of all ſuch as <hi>Feare God and the King, and meddle not with thoſe that are given to change.</hi>
+            </p>
+            <p>By a Lover of (and Sufferer for) the TRVTH.</p>
+            <p>Printed in the yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:114157:2"/>
+            <!-- PDF PAGE 69 -->
+            <head>A Long-winded Lay-LECTVRE.</head>
+            <l>COme Chriſtian Brethren, now the time is fit,</l>
+            <l>
+               <hi>Round about our <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ale fire</hi> let's friendly ſit,</l>
+            <l>And while <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou liſten cloſe (as we are cut,)</l>
+            <l>I will lay open (whilſt the doore is ſhut)</l>
+            <l>Unto you all, (in briefe) a ſum of what</l>
+            <l>No man can juſtly ſum; ſo intricate</l>
+            <l>Is our <hi>(Meandrian) faith,</hi> t'hath no beginning,</l>
+            <l>Nor hath it other end, but th'end of ſinning;</l>
+            <l>How? no beginning, ſaid I, then our profit</l>
+            <l>Is now to be the <hi>Prima P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reus</hi> of it:</l>
+            <l>And ſure enough, now it beginning hath,</l>
+            <l>Time will i'th' end put end unto our <hi>faith;</hi>
+            </l>
+            <l>Prick up your eares my brethren, elevate</l>
+            <l>Your eyes deare ſiſters whilſt I doe relate</l>
+            <l>The comforts which peculiar are to us,</l>
+            <l>Who (by the Spirit) are ſanctified thus,</l>
+            <l>To be the Lords <hi>elected,</hi> if I ſaid,</l>
+            <l>The Lords <hi>anointed,</hi> I'<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not be afraid,</l>
+            <l>Of contradiction: <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>(for <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s) ſaith,</l>
+            <l>You are a Kingly Prieſt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: though his faith</l>
+            <l>We elſe reject, in this <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee'll take his word,</l>
+            <l>And all be <hi>Kings</hi> and <hi>Prieſts</hi> unto the Lord.</l>
+            <l>I, let's be free, let neither <hi>Priest</hi> nor <hi>King</hi>
+            </l>
+            <l>Controule nor governe us in any thing.</l>
+            <l>But ſtay, me thinkes <hi>Paul</hi> ſeemeth to miſtake,</l>
+            <l>Who bids us to oby for <hi>conſcience ſake,</hi>
+            </l>
+            <l>
+               <pb n="3" facs="tcp:114157:2"/>
+               <!-- PDF PAGE 69 -->And therefore (ſilly man) he and the reſt</l>
+            <l>Obey'd the Tyrant <hi>Nero,</hi> who oppreſt</l>
+            <l>The Brethren and did take their lives away</l>
+            <l>Tuſh, they deſerve death that will thus obey<g ref="char:punc">▪</g>
+            </l>
+            <l>Obey to Death, do ſo who li<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s for us,</l>
+            <l>The ſpirit of freedome doth not reach us thus.</l>
+            <l>So <hi>Solomon</hi> ('cauſe he would under bring</l>
+            <l>His people) ſaith, <hi>feare God, honour the King</hi>
+            </l>
+            <l>Yet <hi>Solomon</hi> in this I'll ſend to ſchoole,</l>
+            <l>For all his wiſdome he was but a foole</l>
+            <l>In Chriſtian Libertie there's no ſuch thing,</l>
+            <l>We can feare God, yet diſobey the King</l>
+            <l>Yet (in one ſenſe) hee's not to blame that ſaid it,</l>
+            <l>He was a King himſelfe, 'twas for his credit:</l>
+            <l>So <hi>David</hi> ſpared <hi>Saul</hi> (as Gods anoynted)</l>
+            <l>Becauſe the Kingdome was for him appoynted.</l>
+            <l>But let not us (my brethren) be ſuch Calves,</l>
+            <l>To take their words ſpoke in their own behalves,</l>
+            <l>For we are free (in body and in ſoule)</l>
+            <l>Our tongues are ours, what Lord ſhall us con<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oule?</l>
+            <l>Yet one objection is, that Chriſt doth ſay,</l>
+            <l>Give <hi>Caeſar's</hi> due that's <hi>Caeſar</hi> to obey</l>
+            <l>But I an anſwer ready have for that</l>
+            <l>
+               <hi>Caeſar</hi> rul'd <hi>Rome,</hi> and every one known what</l>
+            <l>Antipathy there is <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Rome</hi> and us</l>
+            <l>Perhaps he might miſtake <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pake thus.</l>
+            <l>But right or wrong <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we hold.</l>
+            <l>To rule our ſelve, rather than others ſhould.</l>
+            <l>Let <hi>Patriarchs, Prophets, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fathers,</hi> nay,</l>
+            <l>If <hi>God</hi> and <hi>Man</hi> ſay what they pleaſe to ſay,</l>
+            <l>Unleſſe it, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſpond <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mind,</l>
+            <l>We in their wor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome fault will find;</l>
+            <l>By <hi>Church</hi> no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ruled bee,</l>
+            <l>No more then wh<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> o<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> fancy doth agree.</l>
+            <l>What though the <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prayer</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y him ſpoken was,</l>
+            <l>Yet ſince <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ended in <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Maſſe,</hi>
+            </l>
+            <l>
+               <pb n="4" facs="tcp:114157:3"/>
+               <!-- PDF PAGE 70 -->We ought<g ref="char:punc">▪</g> aboliſh it (and ſo we will)</l>
+            <l>Uſing no For me (nor Chayre) but th'Bed-ſide ſtill.</l>
+            <l>The <hi>Creed</hi> we cred<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not, 'tis not contain'd</l>
+            <l>I'th' written Word; why may it not be fain'd?</l>
+            <l>'Tis ſaid th'Apoſtles made it, 'tmight be ſo<g ref="char:punc">▪</g>
+            </l>
+            <l>Wer't certaine true, we truſt reject it tho:</l>
+            <l>For among other Articles it hath</l>
+            <l>One, that obligeth (as a point of Faith)</l>
+            <l>Upon a <hi>Church Catholique</hi> to conſide<g ref="char:punc">▪</g>
+            </l>
+            <l>Such chaynes as theſe our Freedome can't abide,</l>
+            <l>To no ſuch Article muſt we give credit,</l>
+            <l>Although beliefe i'th' holy Ghoſt precede it,</l>
+            <l>For our pure Conſciences have given the Lurch</l>
+            <l>Both to the <hi>Roman</hi> and the <hi>Engliſh Church.</hi>
+            </l>
+            <l>What tell they me of <hi>Faith Apostolique;</hi>
+            </l>
+            <l>If that were true, then 'm an <hi>Heretique:</hi>
+            </l>
+            <l>Thinke you th'Apoſtles had ſuch ſtrong ingages,</l>
+            <l>To build a Church ſhould laſt ſo many Ages?</l>
+            <l>My Faith to me can dictate no ſuch thing<g ref="char:punc">▪</g>
+            </l>
+            <l>Though they a <hi>Cloud of Witneſſes</hi> can bring,</l>
+            <l>We muſt explode them all, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey were but men,</l>
+            <l>The Spirit's more aboundant now then then.</l>
+            <l>Let none of us be ſubject to ſuch dotage,</l>
+            <l>To ſtench our zealous hunger with that <hi>Potage,</hi>
+            </l>
+            <l>Wherein the <hi>Coloquintida</hi> is fed,</l>
+            <l>Which is contaginat to the <hi>Babes</hi> of <hi>God:</hi>
+            </l>
+            <l>For 'tis moſt certaine, that this Hotch-potch was</l>
+            <l>Turn'd into <hi>Engliſh</hi> from the <hi>Latine Maſſe.</hi>
+            </l>
+            <l>The Spirit taught the Prophets what to ſay,</l>
+            <l>So did it teach th'Apoſtles how to pray:</l>
+            <l>And ſhall we (which to them are not inferior)</l>
+            <l>Be taught to pray (or preach) by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>les extende?</l>
+            <l>No, Brethren, no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we the elected Seed,</l>
+            <l>Not any Tutor but the Spirit neede</l>
+            <l>Each Brother and each Siſter (I dare ſay)</l>
+            <l>Are Churches in themſelves; then to ob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y.</l>
+            <l>
+               <pb n="5" facs="tcp:114157:3"/>
+               <!-- PDF PAGE 70 -->Another Church (beſide my private Fancie)</l>
+            <l>Ile ſooner yeeld to ſtudie <hi>Necromancie.</hi>
+            </l>
+            <l>To croſſe the <hi>Papists,</hi> let's abhorre the <hi>Croſſe</hi>
+            </l>
+            <l>I proteſt (zealouſly) wer't not for th'loſſe</l>
+            <l>Of all my <hi>Gold</hi> and <hi>Silver,</hi> I ſhould pine,</l>
+            <l>Rather then uſe that (ſo much hated) Signe,</l>
+            <l>And were I ſure my forhead ere were croſt.</l>
+            <l>I'de flay the skin off (though my life it coſt.)</l>
+            <l>Yet ſome who venerate Antiquitie,</l>
+            <l>Affirme the Croſſe is uſed, that thereby</l>
+            <l>
+               <hi>Christians</hi> may be diſtinguiſhed from <hi>Jewes</hi>
+            </l>
+            <l>And <hi>Pagan Infidels</hi> which <hi>Christ</hi> refuſe.</l>
+            <l>What? doth <hi>Antiquitie</hi> then ſtand ſo for it?</l>
+            <l>That very thing doth make me moſt abhorre it,</l>
+            <l>For any thing that's old my <hi>Conſcience</hi> loathes,</l>
+            <l>I'de have <hi>Religion</hi> newer then my Cloathes.</l>
+            <l>The <hi>Surplice</hi> white's an embleme of the ſtate</l>
+            <l>O'th' Miniſterie, pure and immaculate;</l>
+            <l>The uſe on't ſome count decencie, but wee</l>
+            <l>Reject it as a Rag of <hi>Poperie.</hi>
+            </l>
+            <l>Verily Siſters, when I ſee that Smock</l>
+            <l>O'th' <hi>Whore</hi> of <hi>Babylon,</hi> O what a rock</l>
+            <l>Of ſpirituall force it rayſeth in my hoſe!</l>
+            <l>You know my zealous meaning (I ſuppoſe)</l>
+            <l>The <hi>Corner'd-Cap</hi> (ſquare dealings perfect Trope)</l>
+            <l>'Cauſe its originall is from the <hi>Pope,</hi>
+            </l>
+            <l>It fits not our <hi>Round-heads,</hi> full of deceit,</l>
+            <l>Sweare not at all but content pole and cheat,</l>
+            <l>And lye with any body: Siſters heare me,</l>
+            <l>I feele ſtrong motives through ſuch objects neare me.</l>
+            <l>Becauſe the <hi>Wedding Ring</hi>'s a fa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on old,</l>
+            <l>And ſignifies by th' <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God.</l>
+            <l>The puritie requir'd th'marry'd payre,</l>
+            <l>And by th' rotunditie the union fayre</l>
+            <l>Which ought to be betwixt them endleſſe; for</l>
+            <l>No other reaſon wee that uſe abhor:</l>
+            <l>
+               <pb n="6" facs="tcp:114157:4"/>
+               <!-- PDF PAGE 71 -->Wee love no union nor perfection in</l>
+            <l>Religion wee are alwayes to begin.</l>
+            <l>Faſting's a meanes proud fleſh to ſubjugate,</l>
+            <l>And to the Spirit it humilitate,</l>
+            <l>Thoſe hainous ſinners earne ſuch puniſhment,</l>
+            <l>But wee unſpotted are, (and innocent,)</l>
+            <l>Let them faſt (and give almes) whilſt we do feaſt:</l>
+            <l>(And ſtarve the poor,) both fruit, fowle, fiſh, &amp; beaſt,</l>
+            <l>Are onely made for us that godly bee,</l>
+            <l>The wicked live in awe, but wee are free.</l>
+            <l>Wee'll have no <hi>Antichristian Prelats,</hi> that</l>
+            <l>Shall dominiere o're us, nor knee, nor hat,</l>
+            <l>We to the greateſt <hi>Biſhop</hi> will allow,</l>
+            <l>No, nor at th'Name of <hi>Jeſus</hi> will we bow:</l>
+            <l>Though <hi>Paul</hi> (o're-ſeene) in humble ſenſe doth ſay,</l>
+            <l>All knees muſt bow at it, wee'll not obay:</l>
+            <l>If any aske a reaſon, tell them plaine,</l>
+            <l>'Tis us'd in <hi>Popery,</hi> which we muſt refraine.</l>
+            <l>Let <hi>Peter, Paul, James, Jude,</hi> (with all the reſt,)</l>
+            <l>Whoſe writings are to th'world made manifeſt,</l>
+            <l>Expreſly ſay, do this, abſtaine from that,</l>
+            <l>Rather then wee'll with <hi>Rome</hi> participaet,</l>
+            <l>We'll utterly the Text it ſelfe diſclaime,</l>
+            <l>Or without ſenſe adulterate the ſame.</l>
+            <l>Although the Scripture ſtrong appeares to be<g ref="char:punc">▪</g>
+            </l>
+            <l>For the maintaining of <hi>Presbyterie,</hi>
+            </l>
+            <l>What's that to us? who muſt be ever bent</l>
+            <l>Againſt that or what ever government:</l>
+            <l>By th'<hi>Biſhops</hi> fall theſe their up-riſing gather,</l>
+            <l>As <hi>Rehoboam</hi> did ſucceed his <hi>Father.</hi>
+            </l>
+            <l>What difference reſts 'twixt theſe and them before?</l>
+            <l>Though th'title's lef<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the power's retain'd, &amp; more:</l>
+            <l>For whereas but a few of them did flouriſh<g ref="char:punc">▪</g>
+            </l>
+            <l>Now here's a <hi>Biſhop</hi> over every Pariſh</l>
+            <l>Thoſe <hi>Biſhops</hi> did by proxie exerciſe,</l>
+            <l>Theſe by their <hi>Elders</hi> rule, and their owne eyes,</l>
+            <l>
+               <pb n="7" facs="tcp:114157:4"/>
+               <!-- PDF PAGE 71 -->Then let us for our free<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me ſtill conteſt,</l>
+            <l>And by no <hi>mortall power</hi> be over-preſt:</l>
+            <l>Why ſhould we put our necks into the Collar</l>
+            <l>Of any ſuch proud <hi>(Babylonian) Schollar?</hi>
+            </l>
+            <l>Let's rather bid defiance to all the Rabbie,</l>
+            <l>Learning to us muſt be abhominable.</l>
+            <l>What's <hi>Latin,</hi> but the Language of the <hi>Beast!</hi>
+            </l>
+            <l>
+               <hi>Hebrew,</hi> or <hi>Greeke:</hi> is not enough a feaſt?</l>
+            <l>Han't we the Word in <hi>Engliſh,</hi> (which at eaſe)</l>
+            <l>We can convert to any ſen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e we pleaſe<g ref="char:punc">▪</g>
+            </l>
+            <l>Let them urge the Originall, if we</l>
+            <l>Say 'twas firſt writ in <hi>Engliſh,</hi> ſo't ſhall be,</l>
+            <l>For wee'll have our owne way be't wrong or right.</l>
+            <l>And ſay (by ſtrength of faith) the <hi>Cross</hi> is white,</l>
+            <l>Scorning by any to be contradicted,</l>
+            <l>Though they of ignorance have oft convicted</l>
+            <l>Our (rarely gifted) brethren, <hi>Coblers, Weavers,</hi>
+            </l>
+            <l>
+               <hi>Taylors,</hi> and other tradeſ-men, whoſe endeavers</l>
+            <l>Even in their very Steeple-Houſes durſt</l>
+            <l>(As the boy counſelds mother) call <hi>Whore</hi> firſt.</l>
+            <l>Theſe are ſtout Champions (O let's all do ſo)</l>
+            <l>That (in deſpight of <hi>Diſcipline</hi>) dare do <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>cotten)</l>
+            <l>Such bold attempts (ah how doth this geere doth</l>
+            <l>This zealous valour (when they 't dead and rotten)</l>
+            <l>Shall be recorded to their high renowne<g ref="char:punc">▪</g>
+            </l>
+            <l>Follow this courſe, all <hi>Government</hi> goe downe,</l>
+            <l>That Jdoll <hi>(Grandam) Pauls,</hi> with all the reſt</l>
+            <l>O'th' Steeple Houſes we will have ſuppreſt.</l>
+            <l>But ſith I've ſpoke 'gainſt Schollerſhip, I grant,</l>
+            <l>There is one errour which Ile now recant,</l>
+            <l>And that is this, (in truth I'm ſorry for't,</l>
+            <l>You (brethren) may (amongſt the Saints) report,</l>
+            <l>(Unto my great Confuſion) that I did</l>
+            <l>Doe that my ſelfe which I to you forbid,</l>
+            <l>For at my firſt beginning I ſpake two</l>
+            <l>Words in plaine <hi>Latin,</hi> which nor I nor you</l>
+            <l>
+               <pb n="8" facs="tcp:114157:5"/>
+               <!-- PDF PAGE 72 -->(I hope) do underſtand (the fault's the leſſe<g ref="char:punc">▪</g>)</l>
+            <l>Brethren forgive me, now I doe confeſſe,</l>
+            <l>Yet in confeſſion lie not play the foole,</l>
+            <l>To bring mine Ars upon the <hi>Scotiſh Stoole:</hi>
+            </l>
+            <l>No, Ile not ſubject be to ſuch an Order,</l>
+            <l>Which will ere long invade our <hi>Engliſh-Border:</hi>
+            </l>
+            <l>Then they who will be ſlav'd (after the ſentence)</l>
+            <l>Muſt ſit upon the <hi>Stoole</hi> of their <hi>Repentance:</hi>
+            </l>
+            <l>But no ſike <hi>Scotiſh (Presbyterian)</hi> trick</l>
+            <l>Shall make my <hi>(free-borne)</hi> heart with ſorrow ſick;</l>
+            <l>Let thoſe who have a mind to't moſt commend one,</l>
+            <l>On that (and all the reſt) I'm <hi>independant.</hi>
+            </l>
+            <l>Briefely deare Brethren and Siſters kind,</l>
+            <l>Let's doe (or not doe) what contents our mind,</l>
+            <l>And not be rul'd by any: that were baſe;</l>
+            <l>What, in ſubjection bring the <hi>Babes</hi> of <hi>Grace<g ref="char:punc">▪</g>
+               </hi>
+            </l>
+            <l>Why 'twere a thing prepoſterous to reaſon:</l>
+            <l>What ere we doe, our actions are no Treaſon,</l>
+            <l>For all our words (and workes) are ſanctify'd:</l>
+            <l>What's in us meekneſſe, is i'th' wicked Pride;</l>
+            <l>Luſt is but holy Love, and burning Zeale:</l>
+            <l>When we diſſemble, flatter, lye, or ſteale,</l>
+            <l>Alas 'tis onely frayltie; fleſh is frayle,</l>
+            <l>Witneſſe my ſelfe, for now my breath doth fayle.</l>
+            <l>Thus having prov'd words, works, and faith, all fickle,</l>
+            <l>Ile now conclude this preſent Conventicle.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
